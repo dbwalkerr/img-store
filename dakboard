@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'SFProDisplay';
+        src: url('https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Display-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
